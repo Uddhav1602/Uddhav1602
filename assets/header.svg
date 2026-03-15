@@ -1,0 +1,190 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes zoom-pulse {
+        0%   { transform: scale(1);    opacity: 1; }
+        50%  { transform: scale(1.04); opacity: 0.92; }
+        100% { transform: scale(1);    opacity: 1; }
+      }
+      @keyframes glow-pulse {
+        0%   { filter: drop-shadow(0 0 6px #00d9ff) drop-shadow(0 0 14px #00d9ff); }
+        50%  { filter: drop-shadow(0 0 18px #00d9ff) drop-shadow(0 0 36px #00baff) drop-shadow(0 0 60px #0080ff); }
+        100% { filter: drop-shadow(0 0 6px #00d9ff) drop-shadow(0 0 14px #00d9ff); }
+      }
+      @keyframes sub-fade {
+        0%   { opacity: 0.55; letter-spacing: 5px; }
+        50%  { opacity: 0.9;  letter-spacing: 7px; }
+        100% { opacity: 0.55; letter-spacing: 5px; }
+      }
+      @keyframes scanline {
+        0%   { transform: translateY(-220px); }
+        100% { transform: translateY(220px); }
+      }
+      @keyframes grid-drift {
+        0%   { transform: translateX(0); }
+        100% { transform: translateX(40px); }
+      }
+      @keyframes corner-blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0.3; }
+      }
+      @keyframes side-bar {
+        0%   { height: 30px; }
+        50%  { height: 80px; }
+        100% { height: 30px; }
+      }
+
+      .name-group {
+        animation: zoom-pulse 4s ease-in-out infinite, glow-pulse 4s ease-in-out infinite;
+        transform-origin: 450px 105px;
+      }
+      .sub-text {
+        animation: sub-fade 4s ease-in-out infinite;
+      }
+      .scanline {
+        animation: scanline 5s linear infinite;
+        opacity: 0.04;
+      }
+      .grid-lines {
+        animation: grid-drift 8s linear infinite alternate;
+      }
+      .corner-tl { animation: corner-blink 2s ease-in-out infinite; }
+      .corner-tr { animation: corner-blink 2s ease-in-out infinite 0.5s; }
+      .corner-bl { animation: corner-blink 2s ease-in-out infinite 1s; }
+      .corner-br { animation: corner-blink 2s ease-in-out infinite 1.5s; }
+    </style>
+
+    <!-- Grid pattern background -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00d9ff" stroke-width="0.3" opacity="0.15"/>
+    </pattern>
+
+    <!-- Radial glow in center -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#0a2a4a" stop-opacity="1"/>
+      <stop offset="60%"  stop-color="#050f1c" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#020810" stop-opacity="1"/>
+    </radialGradient>
+
+    <!-- Subtle top/bottom fade -->
+    <linearGradient id="topFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#00d9ff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="botFade" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%"   stop-color="#bd00ff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#bd00ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Clip for scanline -->
+    <clipPath id="svgClip">
+      <rect width="900" height="220"/>
+    </clipPath>
+  </defs>
+
+  <!-- Base background -->
+  <rect width="900" height="220" fill="url(#centerGlow)"/>
+
+  <!-- Grid overlay -->
+  <g class="grid-lines">
+    <rect width="940" height="220" fill="url(#grid)" x="-20"/>
+  </g>
+
+  <!-- Top edge accent -->
+  <rect width="900" height="60" fill="url(#topFade)"/>
+  <!-- Bottom edge accent -->
+  <rect y="160" width="900" height="60" fill="url(#botFade)"/>
+
+  <!-- Horizontal rule lines -->
+  <line x1="0" y1="1"   x2="900" y2="1"   stroke="#00d9ff" stroke-width="1.5" opacity="0.6"/>
+  <line x1="0" y1="219" x2="900" y2="219" stroke="#bd00ff" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="3" height="220" fill="#00d9ff" opacity="0.7"/>
+  <!-- Right accent bar -->
+  <rect x="897" y="0" width="3" height="220" fill="#bd00ff" opacity="0.7"/>
+
+  <!-- Corner brackets TL -->
+  <g class="corner-tl">
+    <line x1="14" y1="14" x2="44" y2="14" stroke="#00d9ff" stroke-width="2"/>
+    <line x1="14" y1="14" x2="14" y2="44" stroke="#00d9ff" stroke-width="2"/>
+  </g>
+  <!-- Corner brackets TR -->
+  <g class="corner-tr">
+    <line x1="886" y1="14" x2="856" y2="14" stroke="#00d9ff" stroke-width="2"/>
+    <line x1="886" y1="14" x2="886" y2="44" stroke="#00d9ff" stroke-width="2"/>
+  </g>
+  <!-- Corner brackets BL -->
+  <g class="corner-bl">
+    <line x1="14" y1="206" x2="44" y2="206" stroke="#bd00ff" stroke-width="2"/>
+    <line x1="14" y1="206" x2="14" y2="176" stroke="#bd00ff" stroke-width="2"/>
+  </g>
+  <!-- Corner brackets BR -->
+  <g class="corner-br">
+    <line x1="886" y1="206" x2="856" y2="206" stroke="#bd00ff" stroke-width="2"/>
+    <line x1="886" y1="206" x2="886" y2="176" stroke="#bd00ff" stroke-width="2"/>
+  </g>
+
+  <!-- Dot accents -->
+  <circle cx="14" cy="14"  r="3" fill="#00d9ff" opacity="0.9"/>
+  <circle cx="886" cy="14" r="3" fill="#00d9ff" opacity="0.9"/>
+  <circle cx="14" cy="206" r="3" fill="#bd00ff" opacity="0.9"/>
+  <circle cx="886" cy="206" r="3" fill="#bd00ff" opacity="0.9"/>
+
+  <!-- Side decorative lines -->
+  <line x1="60" y1="110" x2="180" y2="110" stroke="#00d9ff" stroke-width="0.8" opacity="0.3"/>
+  <line x1="720" y1="110" x2="840" y2="110" stroke="#00d9ff" stroke-width="0.8" opacity="0.3"/>
+  <circle cx="180" cy="110" r="2.5" fill="#00d9ff" opacity="0.5"/>
+  <circle cx="720" cy="110" r="2.5" fill="#00d9ff" opacity="0.5"/>
+
+  <!-- Scanline sweep -->
+  <g clip-path="url(#svgClip)">
+    <rect class="scanline" x="0" y="0" width="900" height="40" fill="white"/>
+  </g>
+
+  <!-- Main name — animated zoom + glow -->
+  <g class="name-group">
+    <text
+      x="450" y="115"
+      font-family="'Courier New', 'Lucida Console', monospace"
+      font-size="58"
+      font-weight="700"
+      fill="#00d9ff"
+      text-anchor="middle"
+      letter-spacing="6"
+    >UDDHAV VIDHATE</text>
+  </g>
+
+  <!-- Subtitle -->
+  <text
+    class="sub-text"
+    x="450" y="158"
+    font-family="'Courier New', 'Lucida Console', monospace"
+    font-size="13"
+    font-weight="400"
+    fill="#7ecfff"
+    text-anchor="middle"
+    letter-spacing="5"
+  >FULL-STACK DEVELOPER  ·  COMPUTER ENGINEERING  ·  PUNE, INDIA</text>
+
+  <!-- Status indicator -->
+  <circle cx="340" cy="175" r="4" fill="#00ff88" opacity="0.85"/>
+  <text
+    x="350" y="179"
+    font-family="'Courier New', monospace"
+    font-size="10"
+    fill="#00ff88"
+    opacity="0.75"
+    letter-spacing="2"
+  >ONLINE</text>
+
+  <!-- Version tag -->
+  <text
+    x="550" y="179"
+    font-family="'Courier New', monospace"
+    font-size="10"
+    fill="#bd00ff"
+    opacity="0.6"
+    letter-spacing="1"
+  >v2027.BE.CE</text>
+</svg>
