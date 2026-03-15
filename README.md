@@ -22,15 +22,16 @@
 ```yaml
 Name     : Uddhav Vidhate
 Role     : Full-Stack Developer (Frontend · Backend)
-Education: B.E. — Computer Engineering (2027)
-Location : India 🇮🇳
+Education: B.E. — Computer Engineering @ Dr. D.Y. Patil COE, Pune (2027)
+CGPA     : 8.69 / 10
+Location : Pune, India 🇮🇳
 Focus:
   - Full-Stack Web Development (React · Next.js · Node.js)
   - Scalable Backend Systems with REST APIs & Clean Architecture
   - Building real-world products with modern UI/UX
 Currently Exploring:
   - System Design & Microservices
-  - DSA & Problem Solving
+  - DSA & Competitive Programming
   - DevOps & Cloud Deployments
 Open To  : Internships · Full-time Opportunities · Collaborations
 Philosophy: Seize the day, master the craft, leave a mark.
@@ -46,6 +47,8 @@ Philosophy: Seize the day, master the craft, leave a mark.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 *🎨 Frontend*
@@ -68,10 +71,16 @@ Philosophy: Seize the day, master the craft, leave a mark.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+*🧠 CS Core*
+
+![DSA](https://img.shields.io/badge/DSA-%230d1117.svg?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+![OOP](https://img.shields.io/badge/OOP-%230d1117.svg?style=for-the-badge&logo=buffer&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-%230d1117.svg?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![OS](https://img.shields.io/badge/Operating_Systems-%230d1117.svg?style=for-the-badge&logo=linux&logoColor=white)
+![CN](https://img.shields.io/badge/Computer_Networks-%230d1117.svg?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 </div>
 
@@ -82,9 +91,9 @@ Philosophy: Seize the day, master the craft, leave a mark.
 | 🔖 Project | 💡 Description | ⚡ Stack | 🔗 |
 |:---|:---|:---|:---:|
 | 🛒 *E-Commerce* | A GenZ-style fashion e-commerce platform built for the youth — modern UI, smooth browsing, and a vibe that matches the generation | Next.js · React · TailwindCSS · TypeScript | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/E-Commerce) |
-| 🍽️ *Dine-IN-Live* | A modern mess management & food-service platform — students discover nearby messes, view menus, and manage orders; mess owners manage their services end-to-end | React · Vite · TailwindCSS · Node.js · Express.js · MongoDB | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Dine-IN-Live) |
-| 🔐 *Entrify* | Secure and scalable full-stack authentication system built with Next.js, React, and MongoDB — user registration, login, and protected routes done right | TypeScript · Next.js · React · MongoDB · Mongoose | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Entrify) |
-| 🌾 *Smart-Crop-Advisory-System* | AI-powered crop advisory system using Google Gemini to generate personalized recommendations based on crop, soil, region, and season | Java · Spring Boot · Google Gemini · HTML | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Smart-Crop-Advisory-System) |
+| 🔐 *Entrify* | Secure full-stack auth system with JWT authentication, protected routes, email verification & password reset via NodeMailer, and MongoDB schema modelling | TypeScript · Next.js · React · MongoDB · NodeMailer · JWT | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Entrify) |
+| 🌾 *Smart-Crop-Advisory-System* | AI-powered web platform (SIH 2025) for data-driven crop planning — weather-based suggestions, soil moisture analysis, fertilizer advisory, and multi-crop recommendation dashboards | Java · Spring Boot · React.js · Google Gemini AI | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Smart-Crop-Advisory-System) |
+| 🍽️ *Dine-IN-Live* | Live mess management platform bridging students and mess owners — mess discovery, menu browsing, real-time order management, and seamless REST API integration | React · Vite · TailwindCSS · Node.js · Express.js · MongoDB | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Dine-IN-Live) |
 
 ---
 
@@ -160,6 +169,19 @@ const uddhav = {
 </div>
 
 > ⚠️ *Snake not showing?* Set up the GitHub Action — create `.github/workflows/snake.yml` in your profile repo with the [Platane snake action](https://github.com/Platane/snk) and run it once to generate the SVG into the output branch.
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥉 Project Based Learning (SE) | Secured **3rd place** in the Department |
+|:---|:---|
+| 💻 Competitive Programming | Regular DSA practice on competitive programming platforms |
+| 🌾 Smart India Hackathon 2025 | Built AI-powered crop advisory system as part of SIH 2025 |
+
+</div>
 
 ---
 
