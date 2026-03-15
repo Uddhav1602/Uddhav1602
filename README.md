@@ -7,7 +7,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhateuddhav6271@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uddhav-vidhate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/uddhav-vidhate](https://www.linkedin.com/in/uddhav-vidhate-b95a982a3/))
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uddhav1602)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Uddhav1602&label=Profile+Views&color=22c55e&style=for-the-badge)
@@ -190,7 +190,7 @@ const uddhav = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhateuddhav6271@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uddhav-vidhate)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/uddhav-vidhate](https://www.linkedin.com/in/uddhav-vidhate-b95a982a3/))
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uddhav1602)
 
 *"Seize the day, master the craft, leave a mark."*
