@@ -1,8 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,30:0d1b2a,70:0a192f,100:0d1b2a&height=200&section=header&text=UDDHAV%20VIDHATE&fontSize=55&fontColor=00d9ff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineering%20%7C%20Pune%2C%20India&descSize=16&descAlignY=72&descAlign=50)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Uddhav1602/Uddhav1602/main/assets/header.svg" width="100%" alt="Uddhav Vidhate"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=45&lines=%3E+Initializing+developer+environment...;%3E+Stack+loaded%3A+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;%3E+Status%3A+Open+to+Internships+%26+Collaborations;%3E+Mission%3A+Seize+the+day%2C+master+the+craft%2C+leave+a+mark.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=40&lines=%3E+Initializing+developer+environment...;%3E+Stack+loaded%3A+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;%3E+Status%3A+Open+to+Internships+%26+Collaborations;%3E+Mantra%3A+Seize+the+day%2C+master+the+craft%2C+leave+a+mark.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,23 +23,36 @@
 
 <br/>
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║                     SYSTEM BOOT — DEV PROFILE                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  USER       : Uddhav Vidhate                                     ║
-║  ROLE       : Full-Stack Developer  [Frontend · Backend]         ║
-║  CORE       : B.E. Computer Engineering @ Dr. D.Y. Patil COE    ║
-║  CGPA       : 8.69 / 10                          [BATCH: 2027]  ║
-║  LOCATION   : Pune, India  🇮🇳                                   ║
-║  STATUS     : Open to Internships · Full-time · Collaborations   ║
-║  UPTIME     : 24 / 7 / 365                                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  PROCESS    : Building real-world products with modern UI/UX     ║
-║  THREAD     : Scalable backends with REST APIs & JWT             ║
-║  CRON JOB   : Daily DSA practice on competitive platforms        ║
-║  MANTRA     : Seize the day, master the craft, leave a mark. 🎯  ║
-╚══════════════════════════════════════════════════════════════════╝
+---
+
+## 🖥️ SYSTEM BOOT — Dev Profile
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ██████╗ ███████╗██╗   ██╗    ██████╗ ██████╗  ██████╗ ███████╗    ║
+║  ██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝    ║
+║  ██║  ██║█████╗  ██║   ██║    ██████╔╝██████╔╝██║   ██║█████╗      ║
+║  ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██╔═══╝ ██╔══██╗██║   ██║██╔══╝      ║
+║  ██████╔╝███████╗ ╚████╔╝     ██║     ██║  ██║╚██████╔╝██║         ║
+║  ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   USER      ──  Uddhav Vidhate                                       ║
+║   ROLE      ──  Full-Stack Developer   [ Frontend  ·  Backend ]      ║
+║   CORE      ──  B.E. Computer Engineering @ Dr. D.Y. Patil COE       ║
+║   CGPA      ──  8.69 / 10                          [ BATCH: 2027 ]   ║
+║   LOCATION  ──  Pune, India  🇮🇳                                      ║
+║   STATUS    ──  Open to Internships · Full-time · Collaborations     ║
+║   UPTIME    ──  24 / 7 / 365                                         ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   PROCESS   ──  Building real-world products with modern UI/UX       ║
+║   THREAD    ──  Scalable backends with REST APIs & JWT               ║
+║   CRON JOB  ──  Daily DSA practice on competitive platforms          ║
+║   MANTRA    ──  Seize the day, master the craft, leave a mark. 🎯    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -89,68 +108,74 @@
 ## 🖥️ PROCESSES — Featured Projects
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  PID    NAME                     STATUS     STACK                       │
-├─────────────────────────────────────────────────────────────────────────┤
-│  001    E-Commerce               RUNNING ▶  Next.js · React · Tailwind  │
-│  002    Entrify                  RUNNING ▶  Next.js · MongoDB · JWT      │
-│  003    Smart-Crop-Advisory      SHIPPED ✓  Spring Boot · Gemini AI     │
-│  004    Dine-IN-Live             SHIPPED ✓  React · Node.js · MongoDB   │
-└─────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                       ACTIVE PROCESS TABLE  [ ps -aux ]                     ║
+╠═══════╦══════════════════════════╦═════════════════╦════════════════════════╣
+║  PID  ║  NAME                    ║  STATUS         ║  STACK                 ║
+╠═══════╬══════════════════════════╬═════════════════╬════════════════════════╣
+║  001  ║  E-Commerce              ║  RUNNING  ▶▶   ║  Next.js · React       ║
+║  002  ║  Entrify                 ║  RUNNING  ▶▶   ║  Next.js · MongoDB     ║
+║  003  ║  Smart-Crop-Advisory     ║  SHIPPED  ✓✓   ║  Spring Boot · Gemini  ║
+║  004  ║  Dine-IN-Live            ║  SHIPPED  ✓✓   ║  React · Node · Mongo  ║
+╚═══════╩══════════════════════════╩═════════════════╩════════════════════════╝
 ```
 
 <br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 E-Commerce
-> *GenZ Fashion Platform*
+### 🛒 E-Commerce &nbsp; `PID: 001`
+![RUNNING](https://img.shields.io/badge/●%20RUNNING-00ff88?style=flat-square&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
 
-A youth-first fashion e-commerce store with a bold GenZ aesthetic — modern UI, smooth product browsing, and a vibe built for the generation that lives online.
+> A **GenZ-style fashion e-commerce** platform — bold UI, smooth product browsing, and a design identity built for the generation that lives online.
 
-**`Next.js` `React` `TailwindCSS` `TypeScript`**
-
-[![repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/E-Commerce)
+[![repo](https://img.shields.io/badge/⌥_View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/E-Commerce)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Entrify
-> *Auth & Identity System*
+### 🔐 Entrify &nbsp; `PID: 002`
+![RUNNING](https://img.shields.io/badge/●%20RUNNING-00ff88?style=flat-square&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f1923?style=flat-square&logo=mongodb&logoColor=4ea94b)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=d63aff)
 
-Secure full-stack auth system — JWT authentication, protected routes, email verification & password reset via NodeMailer, MongoDB schema modelling, and industry-standard security practices.
+> **Secure full-stack auth system** — JWT auth, protected routes, email verification & password reset via NodeMailer, MongoDB schema modelling, industry-grade security.
 
-**`TypeScript` `Next.js` `MongoDB` `NodeMailer` `JWT`**
-
-[![repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Entrify)
+[![repo](https://img.shields.io/badge/⌥_View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Entrify)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌾 Smart-Crop-Advisory-System
-> *SIH 2025 · AI Platform*
+### 🌾 Smart-Crop-Advisory &nbsp; `PID: 003`
+![SHIPPED](https://img.shields.io/badge/✓%20SHIPPED-bd00ff?style=flat-square&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-AI-powered crop advisory platform using Google Gemini — weather-based suggestions, soil moisture analysis, fertilizer recommendations, and multi-crop dashboards for data-driven farm decisions.
+> **SIH 2025** — AI-powered platform for data-driven crop planning. Weather suggestions, soil moisture analysis, fertilizer advisory, and multi-crop recommendation dashboards.
 
-**`Java` `Spring Boot` `React.js` `Google Gemini AI`**
-
-[![repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Smart-Crop-Advisory-System)
+[![repo](https://img.shields.io/badge/⌥_View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Smart-Crop-Advisory-System)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍽️ Dine-IN-Live
-> *Mess Management Platform*
+### 🍽️ Dine-IN-Live &nbsp; `PID: 004`
+![SHIPPED](https://img.shields.io/badge/✓%20SHIPPED-bd00ff?style=flat-square&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f1923?style=flat-square&logo=mongodb&logoColor=4ea94b)
 
-Live platform bridging students and mess owners — mess discovery, menu browsing, real-time order management, user authentication, and seamless REST API integration.
+> **Live mess management platform** bridging students and mess owners — mess discovery, menu browsing, real-time order management, and full REST API integration.
 
-**`React` `Vite` `TailwindCSS` `Node.js` `Express.js` `MongoDB`**
-
-[![repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Dine-IN-Live)
+[![repo](https://img.shields.io/badge/⌥_View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Dine-IN-Live)
 
 </td>
 </tr>
@@ -163,11 +188,13 @@ Live platform bridging students and mess owners — mess discovery, menu browsin
 <div align="center">
 
 ```
-SYSTEM DIAGNOSTICS ─────────────────────────────────────────────────
+╔══════════════════════════════════════════════════════════════════╗
+║              SYSTEM DIAGNOSTICS  [ htop — dev edition ]         ║
+╠══════════════════════════════════════════════════════════════════╣
 ```
 
-| Module | Load | Signal |
-|:-------|:----:|-------:|
+| Module | Load Meter | Signal |
+|:-------|:----------:|-------:|
 | 🌐 Full Stack Development | ![82%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-82%25-00d9ff?style=flat-square&labelColor=0d1117) | `ONLINE ✅` |
 | 🎨 Frontend & UI/UX | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-00d9ff?style=flat-square&labelColor=0d1117) | `ACTIVE 🔥` |
 | ⚙️ Backend & APIs | ![78%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░-78%25-bd00ff?style=flat-square&labelColor=0d1117) | `NOMINAL ✅` |
@@ -175,7 +202,7 @@ SYSTEM DIAGNOSTICS ────────────────────�
 | 🧩 Problem Solving | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-00d9ff?style=flat-square&labelColor=0d1117) | `PEAK 🚀` |
 
 ```
-──────────────────────────────────────────── MISSION: GRADUATE 2027
+╚══════════════════════════════════════════� MISSION: GRADUATE 2027 ╝
 ```
 
 </div>
@@ -185,21 +212,21 @@ SYSTEM DIAGNOSTICS ────────────────────�
 ## 🔬 COMPILER — Currently Exploring
 
 ```javascript
-// runtime.config.js — Uddhav's active learning stack
+// runtime.config.js ── Uddhav's active learning stack
 
 export const devRuntime = {
-  kernel : "Computer Engineering @ DYPCOE",
-  version: "3rd Year — Batch 2027",
+  kernel  : "Computer Engineering @ DYPCOE",
+  version : "3rd Year — Batch 2027",
 
   activeThreads: {
-    "🏗️  System Design"  : ["Microservices", "REST Best Practices", "Scalability"],
-    "🧩  DSA"            : ["Data Structures", "Algorithms", "Competitive Programming"],
-    "☁️  DevOps"         : ["Docker", "Cloud Deployments", "CI/CD Pipelines"],
-    "🔐  Auth & Security": ["JWT", "OAuth 2.0", "Secure Architecture"],
+    "🏗️  System Design"   : ["Microservices", "REST Best Practices", "Scalability"],
+    "🧩  DSA"             : ["Data Structures", "Algorithms", "Competitive Programming"],
+    "☁️  DevOps"          : ["Docker", "Cloud Deployments", "CI/CD Pipelines"],
+    "🔐  Auth & Security" : ["JWT", "OAuth 2.0", "Secure Architecture"],
   },
 
-  output : "Fast · Secure · Scalable products",
-  mantra : "Seize the day, master the craft, leave a mark. 🎯",
+  output  : "Fast · Secure · Scalable products",
+  mantra  : "Seize the day, master the craft, leave a mark. 🎯",
 };
 ```
 
@@ -245,20 +272,18 @@ export const devRuntime = {
 
 ## 🏆 LOGS — Achievements
 
-<div align="center">
-
 ```
-╔════════════════════════════════════════════════════════╗
-║                  ACHIEVEMENT UNLOCKED                  ║
-╠════════════════════════════════════════════════════════╣
-║  🥉  PBL (SE Dept.)       →  3rd Place, Department    ║
-║  🌾  SIH 2025             →  Built Smart Crop System   ║
-║  💻  Competitive DSA      →  Regular platform grinder  ║
-║  📈  CGPA                 →  8.69 / 10                 ║
-╚════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                     >> ACHIEVEMENT UNLOCKED <<                       ║
+║                                                                      ║
+╠══════╦═══════════════════════════════╦══════════════════════════════╣
+║  🥉  ║  PBL — SE Department          ║  3rd Place in Department      ║
+║  🌾  ║  Smart India Hackathon 2025   ║  Built Smart Crop System      ║
+║  💻  ║  Competitive Programming      ║  Regular DSA platform grinder ║
+║  📈  ║  Academic Performance         ║  CGPA: 8.69 / 10             ║
+╚══════╩═══════════════════════════════╩══════════════════════════════╝
 ```
-
-</div>
 
 ---
 
@@ -267,9 +292,13 @@ export const devRuntime = {
 <div align="center">
 
 ```
-> ping vidhateuddhav6271@gmail.com ................. REACHABLE ✅
-> ping linkedin.com/in/uddhav-vidhate .............. REACHABLE ✅
-> ping github.com/Uddhav1602 ...................... REACHABLE ✅
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   $ ping vidhateuddhav6271@gmail.com ............  ONLINE ✅   │
+│   $ ping linkedin/uddhav-vidhate ................  ONLINE ✅   │
+│   $ ping github.com/Uddhav1602 ..................  ONLINE ✅   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -284,4 +313,4 @@ export const devRuntime = {
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a192f,100:0d1b2a&height=80&section=footer&text=//+EOF+—+Keep+building.&fontSize=18&fontColor=00d9ff&fontAlignY=55)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a192f,100:0d1b2a&height=60&section=footer&text=//+EOF+—+Keep+building.&fontSize=15&fontColor=00d9ff&fontAlignY=55)
