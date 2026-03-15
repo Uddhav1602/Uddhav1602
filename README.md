@@ -1,162 +1,235 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:16a34a,100:0ea5e9&height=220&section=header&text=Uddhav%20Vidhate&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,30:0d1b2a,70:0a192f,100:0d1b2a&height=200&section=header&text=UDDHAV%20VIDHATE&fontSize=55&fontColor=00d9ff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineering%20%7C%20Pune%2C%20India&descSize=16&descAlignY=72&descAlign=50)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Engineer+%F0%9F%9A%80;Computer+Engineering+Undergrad+%F0%9F%8E%93;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Open+to+Internships+%26+Collaborations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=45&lines=%3E+Initializing+developer+environment...;%3E+Stack+loaded%3A+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;%3E+Status%3A+Open+to+Internships+%26+Collaborations;%3E+Mission%3A+Seize+the+day%2C+master+the+craft%2C+leave+a+mark.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhateuddhav6271@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/uddhav-vidhate](https://www.linkedin.com/in/uddhav-vidhate-b95a982a3/))
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uddhav1602)
+[![Gmail](https://img.shields.io/badge/──%20MAIL%20──-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhateuddhav6271@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/──%20LINKEDIN%20──-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uddhav-vidhate-b95a982a3/)
+[![GitHub](https://img.shields.io/badge/──%20GITHUB%20──-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uddhav1602)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Uddhav1602&label=Profile+Views&color=22c55e&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Uddhav1602?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a)
+![Profile Views](https://komarev.com/ghpvc/?username=Uddhav1602&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Uddhav1602?label=FOLLOWERS&style=for-the-badge&color=bd00ff&labelColor=0d1117)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
-
-```yaml
-Name     : Uddhav Vidhate
-Role     : Full-Stack Developer (Frontend · Backend)
-Education: B.E. — Computer Engineering @ Dr. D.Y. Patil COE, Pune (2027)
-CGPA     : 8.69 / 10
-Location : Pune, India 🇮🇳
-Focus:
-  - Full-Stack Web Development (React · Next.js · Node.js)
-  - Scalable Backend Systems with REST APIs & Clean Architecture
-  - Building real-world products with modern UI/UX
-Currently Exploring:
-  - System Design & Microservices
-  - DSA & Competitive Programming
-  - DevOps & Cloud Deployments
-Open To  : Internships · Full-time Opportunities · Collaborations
-Philosophy: Seize the day, master the craft, leave a mark.
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║                     SYSTEM BOOT — DEV PROFILE                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  USER       : Uddhav Vidhate                                     ║
+║  ROLE       : Full-Stack Developer  [Frontend · Backend]         ║
+║  CORE       : B.E. Computer Engineering @ Dr. D.Y. Patil COE    ║
+║  CGPA       : 8.69 / 10                          [BATCH: 2027]  ║
+║  LOCATION   : Pune, India  🇮🇳                                   ║
+║  STATUS     : Open to Internships · Full-time · Collaborations   ║
+║  UPTIME     : 24 / 7 / 365                                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  PROCESS    : Building real-world products with modern UI/UX     ║
+║  THREAD     : Scalable backends with REST APIs & JWT             ║
+║  CRON JOB   : Daily DSA practice on competitive platforms        ║
+║  MANTRA     : Seize the day, master the craft, leave a mark. 🎯  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚙️ HARDWARE — Tech Arsenal
 
 <div align="center">
 
-*🔤 Languages*
+**`// CPU — Languages`**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a0f)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-*🎨 Frontend*
+**`// GPU — Frontend Rendering`**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-*⚙️ Backend & Databases*
+**`// RAM — Backend & Databases`**
 
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f1923?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![JWT](https://img.shields.io/badge/JWT-0d0d0d?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=d63aff)
 
-*🔧 Tools & Platforms*
+**`// I/O — Tools & Platforms`**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1e1e2e?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-*🧠 CS Core*
+**`// BIOS — CS Core`**
 
-![DSA](https://img.shields.io/badge/DSA-%230d1117.svg?style=for-the-badge&logo=leetcode&logoColor=FFA116)
-![OOP](https://img.shields.io/badge/OOP-%230d1117.svg?style=for-the-badge&logo=buffer&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-%230d1117.svg?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![OS](https://img.shields.io/badge/Operating_Systems-%230d1117.svg?style=for-the-badge&logo=linux&logoColor=white)
-![CN](https://img.shields.io/badge/Computer_Networks-%230d1117.svg?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+![OOP](https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&logo=buffer&logoColor=00d9ff)
+![DBMS](https://img.shields.io/badge/DBMS-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![OS](https://img.shields.io/badge/Operating_Systems-0d1117?style=for-the-badge&logo=linux&logoColor=white)
+![CN](https://img.shields.io/badge/Computer_Networks-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🖥️ PROCESSES — Featured Projects
 
-| 🔖 Project | 💡 Description | ⚡ Stack | 🔗 |
-|:---|:---|:---|:---:|
-| 🛒 *E-Commerce* | A GenZ-style fashion e-commerce platform built for the youth — modern UI, smooth browsing, and a vibe that matches the generation | Next.js · React · TailwindCSS · TypeScript | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/E-Commerce) |
-| 🔐 *Entrify* | Secure full-stack auth system with JWT authentication, protected routes, email verification & password reset via NodeMailer, and MongoDB schema modelling | TypeScript · Next.js · React · MongoDB · NodeMailer · JWT | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Entrify) |
-| 🌾 *Smart-Crop-Advisory-System* | AI-powered web platform (SIH 2025) for data-driven crop planning — weather-based suggestions, soil moisture analysis, fertilizer advisory, and multi-crop recommendation dashboards | Java · Spring Boot · React.js · Google Gemini AI | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Smart-Crop-Advisory-System) |
-| 🍽️ *Dine-IN-Live* | Live mess management platform bridging students and mess owners — mess discovery, menu browsing, real-time order management, and seamless REST API integration | React · Vite · TailwindCSS · Node.js · Express.js · MongoDB | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/Uddhav1602/Dine-IN-Live) |
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  PID    NAME                     STATUS     STACK                       │
+├─────────────────────────────────────────────────────────────────────────┤
+│  001    E-Commerce               RUNNING ▶  Next.js · React · Tailwind  │
+│  002    Entrify                  RUNNING ▶  Next.js · MongoDB · JWT      │
+│  003    Smart-Crop-Advisory      SHIPPED ✓  Spring Boot · Gemini AI     │
+│  004    Dine-IN-Live             SHIPPED ✓  React · Node.js · MongoDB   │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce
+> *GenZ Fashion Platform*
+
+A youth-first fashion e-commerce store with a bold GenZ aesthetic — modern UI, smooth product browsing, and a vibe built for the generation that lives online.
+
+**`Next.js` `React` `TailwindCSS` `TypeScript`**
+
+[![repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/E-Commerce)
+
+</td>
+<td width="50%">
+
+### 🔐 Entrify
+> *Auth & Identity System*
+
+Secure full-stack auth system — JWT authentication, protected routes, email verification & password reset via NodeMailer, MongoDB schema modelling, and industry-standard security practices.
+
+**`TypeScript` `Next.js` `MongoDB` `NodeMailer` `JWT`**
+
+[![repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Entrify)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 Smart-Crop-Advisory-System
+> *SIH 2025 · AI Platform*
+
+AI-powered crop advisory platform using Google Gemini — weather-based suggestions, soil moisture analysis, fertilizer recommendations, and multi-crop dashboards for data-driven farm decisions.
+
+**`Java` `Spring Boot` `React.js` `Google Gemini AI`**
+
+[![repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Smart-Crop-Advisory-System)
+
+</td>
+<td width="50%">
+
+### 🍽️ Dine-IN-Live
+> *Mess Management Platform*
+
+Live platform bridging students and mess owners — mess discovery, menu browsing, real-time order management, user authentication, and seamless REST API integration.
+
+**`React` `Vite` `TailwindCSS` `Node.js` `Express.js` `MongoDB`**
+
+[![repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Uddhav1602/Dine-IN-Live)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📡 Mission Control
+## 📟 DIAGNOSTICS — Mission Control
 
 <div align="center">
 
-| Skill | Level | Status |
-|:------|:-----:|-------:|
-| 🌐 Full Stack Development | ![82%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-82%25-22C55E?style=flat-square&labelColor=0d1117) | ONLINE ✅ |
-| 🎨 Frontend & UI/UX | ![85%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-85%25-22C55E?style=flat-square&labelColor=0d1117) | ACTIVE 🔥 |
-| ⚙️ Backend & APIs | ![78%](https://img.shields.io/badge/━━━━━━━━━━━━━━━░░░░░-78%25-0ea5e9?style=flat-square&labelColor=0d1117) | NOMINAL ✅ |
-| 🏗️ System Design | ![65%](https://img.shields.io/badge/━━━━━━━━━━━━━░░░░░░░-65%25-0ea5e9?style=flat-square&labelColor=0d1117) | LOADING ⚡ |
-| 🧩 Problem Solving | ![80%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-22C55E?style=flat-square&labelColor=0d1117) | PEAK 🚀 |
+```
+SYSTEM DIAGNOSTICS ─────────────────────────────────────────────────
+```
 
-> 🌱 *CURRENT MISSION:* Seize the day. Master the craft. Graduate 2027.
+| Module | Load | Signal |
+|:-------|:----:|-------:|
+| 🌐 Full Stack Development | ![82%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-82%25-00d9ff?style=flat-square&labelColor=0d1117) | `ONLINE ✅` |
+| 🎨 Frontend & UI/UX | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-00d9ff?style=flat-square&labelColor=0d1117) | `ACTIVE 🔥` |
+| ⚙️ Backend & APIs | ![78%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░-78%25-bd00ff?style=flat-square&labelColor=0d1117) | `NOMINAL ✅` |
+| 🏗️ System Design | ![65%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░-65%25-bd00ff?style=flat-square&labelColor=0d1117) | `LOADING ⚡` |
+| 🧩 Problem Solving | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-00d9ff?style=flat-square&labelColor=0d1117) | `PEAK 🚀` |
+
+```
+──────────────────────────────────────────── MISSION: GRADUATE 2027
+```
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🔬 COMPILER — Currently Exploring
 
 ```javascript
-const uddhav = {
-  learning: {
-    "🏗️ System Design"  : ["Microservices", "REST Best Practices", "Scalability"],
-    "🧩 DSA"            : ["Data Structures", "Algorithms", "Problem Solving"],
-    "☁️ DevOps"         : ["Docker", "Cloud Deployments", "CI/CD"],
-    "🔐 Auth & Security": ["JWT", "OAuth", "Secure Architecture"],
+// runtime.config.js — Uddhav's active learning stack
+
+export const devRuntime = {
+  kernel : "Computer Engineering @ DYPCOE",
+  version: "3rd Year — Batch 2027",
+
+  activeThreads: {
+    "🏗️  System Design"  : ["Microservices", "REST Best Practices", "Scalability"],
+    "🧩  DSA"            : ["Data Structures", "Algorithms", "Competitive Programming"],
+    "☁️  DevOps"         : ["Docker", "Cloud Deployments", "CI/CD Pipelines"],
+    "🔐  Auth & Security": ["JWT", "OAuth 2.0", "Secure Architecture"],
   },
-  goal  : "Ship products that are fast, secure, and built to last.",
-  mantra: "Seize the day, master the craft, leave a mark. 🎯"
+
+  output : "Fast · Secure · Scalable products",
+  mantra : "Seize the day, master the craft, leave a mark. 🎯",
 };
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 TELEMETRY — GitHub Stats
 
 <div align="center">
 
-[![Uddhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uddhav1602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9&count_private=true)](https://github.com/Uddhav1602)
+[![Uddhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uddhav1602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=bd00ff&text_color=c9d1d9&count_private=true&border_radius=8)](https://github.com/Uddhav1602)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Uddhav1602&theme=tokyonight&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=0ea5e9&currStreakLabel=22c55e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Uddhav1602&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=bd00ff&currStreakLabel=00d9ff&border_radius=8)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uddhav1602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8)](https://github.com/Uddhav1602)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uddhav1602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&border_radius=8)](https://github.com/Uddhav1602)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 SIGNAL TRACE — Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uddhav1602&bg_color=0d1117&color=22c55e&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uddhav1602&bg_color=0d1117&color=00d9ff&line=bd00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 PROCESS SNAKE — Contribution Grid
 
 <div align="center">
 
@@ -168,33 +241,47 @@ const uddhav = {
 
 </div>
 
-> ⚠️ *Snake not showing?* Set up the GitHub Action — create `.github/workflows/snake.yml` in your profile repo with the [Platane snake action](https://github.com/Platane/snk) and run it once to generate the SVG into the output branch.
-
 ---
 
-## 🏆 Achievements
+## 🏆 LOGS — Achievements
 
 <div align="center">
 
-| 🥉 Project Based Learning (SE) | Secured **3rd place** in the Department |
-|:---|:---|
-| 💻 Competitive Programming | Regular DSA practice on competitive programming platforms |
-| 🌾 Smart India Hackathon 2025 | Built AI-powered crop advisory system as part of SIH 2025 |
+```
+╔════════════════════════════════════════════════════════╗
+║                  ACHIEVEMENT UNLOCKED                  ║
+╠════════════════════════════════════════════════════════╣
+║  🥉  PBL (SE Dept.)       →  3rd Place, Department    ║
+║  🌾  SIH 2025             →  Built Smart Crop System   ║
+║  💻  Competitive DSA      →  Regular platform grinder  ║
+║  📈  CGPA                 →  8.69 / 10                 ║
+╚════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📡 NETWORK — Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhateuddhav6271@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/uddhav-vidhate](https://www.linkedin.com/in/uddhav-vidhate-b95a982a3/))
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uddhav1602)
+```
+> ping vidhateuddhav6271@gmail.com ................. REACHABLE ✅
+> ping linkedin.com/in/uddhav-vidhate .............. REACHABLE ✅
+> ping github.com/Uddhav1602 ...................... REACHABLE ✅
+```
 
-*"Seize the day, master the craft, leave a mark."*
+<br/>
+
+[![Email](https://img.shields.io/badge/──%20EMAIL%20──-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhateuddhav6271@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/──%20LINKEDIN%20──-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uddhav-vidhate-b95a982a3/)
+[![GitHub](https://img.shields.io/badge/──%20GITHUB%20──-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uddhav1602)
+
+<br/>
+
+*`"Seize the day, master the craft, leave a mark."`*
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16a34a,100:0ea5e9&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a192f,100:0d1b2a&height=80&section=footer&text=//+EOF+—+Keep+building.&fontSize=18&fontColor=00d9ff&fontAlignY=55)
