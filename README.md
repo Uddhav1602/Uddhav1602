@@ -29,19 +29,14 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  ██████╗ ███████╗██╗   ██╗    ██████╗ ██████╗  ██████╗ ███████╗    ║
-║  ██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝    ║
-║  ██║  ██║█████╗  ██║   ██║    ██████╔╝██████╔╝██║   ██║█████╗      ║
-║  ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██╔═══╝ ██╔══██╗██║   ██║██╔══╝      ║
-║  ██████╔╝███████╗ ╚████╔╝     ██║     ██║  ██║╚██████╔╝██║         ║
-║  ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝         ║
+║ **Dev Profile**                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║   USER      ──  Uddhav Vidhate                                       ║
 ║   ROLE      ──  Full-Stack Developer   [ Frontend  ·  Backend ]      ║
 ║   CORE      ──  B.E. Computer Engineering @ Dr. D.Y. Patil COE       ║
 ║   CGPA      ──  8.69 / 10                          [ BATCH: 2027 ]   ║
-║   LOCATION  ──  Pune, India  🇮🇳                                      ║
+║   LOCATION  ──  Pune, India                                          ║
 ║   STATUS    ──  Open to Internships · Full-time · Collaborations     ║
 ║   UPTIME    ──  24 / 7 / 365                                         ║
 ║                                                                      ║
@@ -50,7 +45,7 @@
 ║   PROCESS   ──  Building real-world products with modern UI/UX       ║
 ║   THREAD    ──  Scalable backends with REST APIs & JWT               ║
 ║   CRON JOB  ──  Daily DSA practice on competitive platforms          ║
-║   MANTRA    ──  Seize the day, master the craft, leave a mark. 🎯    ║
+║   MANTRA    ──  Seize the day, master the craft, leave a mark.       ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -109,15 +104,15 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                       ACTIVE PROCESS TABLE  [ ps -aux ]                     ║
-╠═══════╦══════════════════════════╦═════════════════╦════════════════════════╣
-║  PID  ║  NAME                    ║  STATUS         ║  STACK                 ║
-╠═══════╬══════════════════════════╬═════════════════╬════════════════════════╣
-║  001  ║  E-Commerce              ║  RUNNING  ▶▶   ║  Next.js · React       ║
-║  002  ║  Entrify                 ║  RUNNING  ▶▶   ║  Next.js · MongoDB     ║
-║  003  ║  Smart-Crop-Advisory     ║  SHIPPED  ✓✓   ║  Spring Boot · Gemini  ║
-║  004  ║  Dine-IN-Live            ║  SHIPPED  ✓✓   ║  React · Node · Mongo  ║
-╚═══════╩══════════════════════════╩═════════════════╩════════════════════════╝
+║                       ACTIVE PROCESS TABLE  [ ps -aux ]                      ║
+╠═══════╦══════════════════════════╦═════════════════╦════════════════════════ ╣
+║  PID  ║  NAME                    ║  STATUS         ║  STACK                  ║
+╠═══════╬══════════════════════════╬═════════════════╬═══════════════════════ ═╣
+║  001  ║  E-Commerce              ║  RUNNING  ▶▶   ║  Next.js · React        ║
+║  002  ║  Entrify                 ║  RUNNING  ▶▶   ║  Next.js · MongoDB      ║
+║  003  ║  Smart-Crop-Advisory     ║  SHIPPED  ✓✓   ║  Spring Boot · Gemini   ║
+║  004  ║  Dine-IN-Live            ║  SHIPPED  ✓✓   ║  React · Node · Mongo   ║
+╚═══════╩══════════════════════════╩═════════════════╩═════════════════════════╝
 ```
 
 <br/>
@@ -277,7 +272,7 @@ export const devRuntime = {
 ║                                                                      ║
 ║                     >> ACHIEVEMENT UNLOCKED <<                       ║
 ║                                                                      ║
-╠══════╦═══════════════════════════════╦══════════════════════════════╣
+╠══════╦═══════════════════════════════╦═══════════════════════════════╣
 ║  🥉  ║  PBL — SE Department          ║  3rd Place in Department      ║
 ║  🌾  ║  Smart India Hackathon 2025   ║  Built Smart Crop System      ║
 ║  💻  ║  Competitive Programming      ║  Regular DSA platform grinder ║
